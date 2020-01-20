@@ -1,0 +1,3 @@
+data.tsv is a concatenation of the train, dev and test files found in the accompanying zip file. This zip contains the original datafiles as supplied by:  
+William Wang, william@cs.ucsb.edu
+https://github.com/thiagorainmaker77/liar_dataset
